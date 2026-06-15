@@ -8,7 +8,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-roast border-b border-white/20 h-[60px] flex items-center px-6 justify-between">
       <Link to="/" className="flex items-center gap-3 group">
         <img
-          src="/img/logo.png"
+          src="dist/img/logo.png"
           alt="Cafena Logo"
           className="h-[40px] w-auto object-contain"
         />
