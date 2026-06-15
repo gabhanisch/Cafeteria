@@ -6,13 +6,13 @@ import Footer from '../components/Footer'
 
 // Imagens (caminhos absolutos dentro da pasta public/)
 const IMG = {
-  home: 'dist/img/home-img.jpg',
-  about: 'dist/img/about-img.jpg',
+  home: 'public/img/home-img.jpg',
+  about: 'public/img/about-img.jpg',
   menu: [
-    'dist/img/menu-1.png', 'dist/img/menu-2.png', 'dist/img/menu-3.png',
-    'dist/img/menu-4.png', 'dist/img/menu-5.png', 'dist/img/menu-6.png',
+    'public/img/menu-1.png', 'public/img/menu-2.png', 'public/img/menu-3.png',
+    'public/img/menu-4.png', 'public/img/menu-5.png', 'public/img/menu-6.png',
   ],
-  pics: ['dist/img/pic-1.png', 'dist/img/pic-2.png', 'dist/img/pic-3.png'],
+  pics: ['public/img/pic-1.png', 'public/img/pic-2.png', 'public/img/pic-3.png'],
 }
 
 const menuItems = [
