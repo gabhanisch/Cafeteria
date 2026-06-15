@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { font-size: 10px; }
+
+* { font-family: 'Roboto Condensed', sans-serif; }
+
+html { scroll-behavior: smooth; }
+
+@layer components {
+  .btn-caramel {
+    @apply bg-caramel text-white px-8 py-3 text-[1.7rem] font-semibold uppercase tracking-wider
+      inline-block transition-all duration-300 hover:scale-105 hover:bg-caramel-dark cursor-pointer;
+  }
+  .section-title {
+    @apply text-[4rem] text-caramel uppercase text-center mb-12 font-bold tracking-widest;
+  }
+  .section-title span {
+    @apply text-white;
+  }
+}
