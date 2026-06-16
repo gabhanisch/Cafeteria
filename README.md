@@ -1,4 +1,4 @@
-# ☕ Cafena
+# Cafena
 
 Projeto final desenvolvido para a disciplina de Front-End.
 
@@ -10,7 +10,7 @@ A aplicação oferece uma interface moderna e responsiva, permitindo que o usuá
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * Navegação por seções utilizando âncoras
 * Rolagem suave entre seções da página
@@ -37,7 +37,7 @@ A aplicação oferece uma interface moderna e responsiva, permitindo que o usuá
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 src
@@ -66,7 +66,7 @@ src
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clonar o repositório
 
@@ -96,7 +96,7 @@ Após executar o comando, o projeto estará disponível no endereço informado p
 
 ---
 
-## 📚 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram utilizados diversos conceitos abordados na disciplina:
 
@@ -111,13 +111,13 @@ Durante o desenvolvimento deste projeto foram utilizados diversos conceitos abor
 
 ---
 
-## 🎯 Objetivo Acadêmico
+## Objetivo Acadêmico
 
 O principal objetivo do projeto foi colocar em prática os conhecimentos adquiridos ao longo da disciplina de Front-End, desenvolvendo uma aplicação completa utilizando tecnologias modernas do ecossistema React.
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 - Gabriel Hanisch Afonso
 - Henry Gabriel da Rocha Ribeiro
