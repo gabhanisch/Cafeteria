@@ -2,7 +2,7 @@
 
 Projeto final desenvolvido para a disciplina de Front-End.
 
-## 📖 Descrição
+## Descrição
 
 O Cafena é uma aplicação web desenvolvida utilizando React com o objetivo de simular o sistema de uma cafeteria. O projeto foi criado para aplicar os principais conceitos estudados durante a disciplina, incluindo componentização, roteamento, gerenciamento de estado, responsividade e consumo de dados.
 
@@ -25,7 +25,7 @@ A aplicação oferece uma interface moderna e responsiva, permitindo que o usuá
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * React
 * Vite
